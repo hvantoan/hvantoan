@@ -92,7 +92,7 @@
 
 <p align="center">
 <a href="https://github.com/hvantoan/Minder">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=hvantoan&repo=ToolSeoViet.Api&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=hvantoan&repo=Minder&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
-        <p></p>
+<p width='49%'></p>
 </p>
