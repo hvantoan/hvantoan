@@ -42,16 +42,15 @@
 </p>
 
 <!-- Details Section -->
-<details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
-    <p align="center">
+ <p align="center">
         <br>
         <!-- Activity Widget -->
         <img alt="Hồ Văn Toàn GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=hvantoan&show_icons=true&theme=radical" />
         <br>
         <!-- Social Links -->
-        <p>Find me on</p>
+    <p align="center">
+                <p>Find me on</p>
         <!-- Mail -->
         <a href="mailto:it.vantoan@gmail.com" target="_blank"><img alt="Mail"
                 src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
@@ -65,7 +64,7 @@
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
     </p>
-</details>
+    </p>
 <br>
 
 <!-- Footer -->
@@ -76,23 +75,3 @@
         "Happy Coding👨‍💻"
     </p>
 </samp>
-
-<!-- Featured Repositories -->
-#### Featured
-
-<p align="center">
-<a href="https://github.com/hvantoan/ToolSeoViet.Web">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=hvantoan&repo=ToolSeoViet.Web&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/hvantoan/ToolSeoViet.Api">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=hvantoan&repo=ToolSeoViet.Api&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/hvantoan/Minder">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=hvantoan&repo=Minder&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<p width='49%'></p>
-</p>
