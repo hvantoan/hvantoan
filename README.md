@@ -25,7 +25,7 @@
         <!-- Technologies -->
         <!-- JavaScript -->
         <a href="https://github.com/hvantoan?tab=repositories" target="_blank">
-                <img alt="C#" src="https://img.shields.io/badge/-csharp-a480dd?style=flat-square&logo=csharp&logoColor=while">
+                <img alt="C#" src="https://img.shields.io/badge/-Csharp-a480dd?style=flat-square&logo=csharp&logoColor=while">
         </a>
         <!-- JavaScript -->
         <a href="https://github.com/hvantoan?tab=repositories" target="_blank">
