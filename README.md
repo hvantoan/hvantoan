@@ -33,7 +33,7 @@
         </a>
         <!-- React -->
         <a href="https://github.com/hvantoan?tab=repositories" target="_blank">
-                <img alt="React" rc="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=react&logoColor=while">
+                <img alt="React" src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=react&logoColor=while">
         </a>
         <!-- Golang -->
         <a href="https://github.com/hvantoan?tab=repositories" target="_blank">
