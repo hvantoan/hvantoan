@@ -8,7 +8,7 @@
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://shahriarshafin.github.io/">Hồ Văn Toàn</a></b>
+                <b><a target="_blank" href="">Hồ Văn Toàn</a></b>
         </samp>
 </h3>
 <br>
