@@ -4,7 +4,9 @@
 
 <!-- Profile Views Counter -->
 <!-- ![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3) -->
-
+<a href="https://komarev.com/ghpvc/?username=hvantoan">
+  <img align="right" src="https://komarev.com/ghpvc/?username=hvantoan&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
