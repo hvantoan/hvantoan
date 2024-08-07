@@ -48,7 +48,7 @@
         <br>
         <!-- Activity Widget -->
         <img alt="Hồ Văn Toàn GitHub Stats"
-                src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hvantoan&show_icons=true&count_private=true&theme=radical" />
+                src="https://www.hvantoan.tech/api?username=hvantoan&show_icons=true&count_private=true&theme=radical" />
         <br>
         <!-- Social Links -->
     <p align="center">
